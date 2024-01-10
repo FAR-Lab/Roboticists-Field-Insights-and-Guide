@@ -1,6 +1,6 @@
 ### List of Used Software
 
-This section details the software tools and frameworks employed in the "Human-Robot Interaction in Public Spaces" study. Each entry includes relevant information and links for further details.
+This section details the software tools and frameworks employed in the "Field Notes on Deploying Research Robots in Public Spaces" paper. Each entry includes relevant information and links for further details.
 
 1. **Robot Operating System (ROS)**
    - Description: Primary framework for robot software development.
