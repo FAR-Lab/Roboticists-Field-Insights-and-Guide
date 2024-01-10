@@ -1,6 +1,6 @@
 ### List of Used Hardware
 
-Below is the detailed list of hardware used in the "Human-Robot Interaction in Public Spaces" study. Each item includes a link for further information or purchase.
+Below is the detailed list of hardware used in the "Field Notes on Deploying Research Robots in Public Spaces" study. Each item includes a link for further information or purchase.
 
 1. **Motors and Chassis from Old Hoverboards**  
    - Description: Reused components for robot mobility.
